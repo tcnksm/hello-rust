@@ -1,0 +1,7 @@
+[package]
+name = "hello_cargo"
+version = "0.0.1"
+authors = ["tcnksm <nsd22843@gmail.com>"]
+
+[dependencies.color]
+git = "https://github.com/bjz/color-rs.git"
